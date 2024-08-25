@@ -1,0 +1,25 @@
+.wel{
+    border: 2px solid red;
+    background-color: cadetblue;
+}
+.wel1{
+    font-size: 150%;
+}
+.tab, th, td{
+    border: 2px solid brown;
+}
+.aob{
+    border: 2px solid violet;
+    background-color: cadetblue;
+}
+.aob1{
+    font-size: 150%;
+}
+.gal{
+    border: 2px solid blue;
+    background-color: cadetblue;
+}
+.con{
+    border: 2px solid orange;
+    background-color: cadetblue;
+}
